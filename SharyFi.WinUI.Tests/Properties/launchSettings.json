@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SharyFi.WinUI.Tests (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SharyFi.WinUI.Tests (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
